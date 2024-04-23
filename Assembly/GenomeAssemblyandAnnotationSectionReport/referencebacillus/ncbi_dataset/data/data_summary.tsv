@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Bacillus velezensis		strain: JS25R	492670	ASM76955v1	GCA_000769555.1	GenBank	Annotation submitted by Institute of Agro-products Processing Science and Technology, Chinese Academy of Agricultural Sciences	Complete Genome	4006002	4014440	2014-10-28	3902	PRJNA263650	SAMN03104819
+Bacillus velezensis		strain: JS25R	492670	ASM76955v1	GCF_000769555.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4006002	4014440	2014-10-28	3940	PRJNA263650	SAMN03104819
